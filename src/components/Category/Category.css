@@ -1,0 +1,20 @@
+.cat {
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+.cate {
+    margin-top: 20px;
+    width: 50%;
+    float: left;
+    padding: 20px;
+    font-size: 30px;
+    border: 2px solid black;
+}  
+
+#a {
+    display: block;
+    
+}
+
+

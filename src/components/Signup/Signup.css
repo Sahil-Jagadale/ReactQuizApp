@@ -1,0 +1,38 @@
+.register {
+    width: 400px;
+    background: #fff;
+    border: 5px solid #050505;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    border-radius: 70px;
+    align-items: center;
+    text-align: center;
+    margin-right: 450px;
+    margin-top: 70px;
+    margin-left: 450px;
+    padding: 2rem;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.lp {
+    margin-top: 60px;
+}
+
+
+.register > input {
+    border-radius: 80px;
+    border: 2px solid #dddfe2;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 92%;
+    font-size: 1rem;
+}
+
+
+.fa-user-circle {
+    margin-bottom: 30px;
+    font-size: 5rem;
+    color: black;
+}
